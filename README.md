@@ -88,6 +88,12 @@ A mosque management ecosystem with web, mobile, and TV applications, including p
 
 **Tech:** MERN Stack, React Native, Node.js, MongoDB
 
+### 🧠 Opsious
+
+An AI-focused software product currently under development, helping teams and businesses improve how they work with modern digital systems, simplify day-to-day operations, and create more efficient technology-driven workflows.
+
+**Tech:** TypeScript, Node.js, React, Next.js, MongoDB, Redis
+
 ### 🏠 Rentora
 
 A property and tenant management SaaS under development, focused on simplifying property operations and tenant management.
