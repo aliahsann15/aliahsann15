@@ -76,6 +76,12 @@ A SaaS platform for contractor businesses to manage services, teams, jobs, clien
 
 **Tech:** React, Django, REST APIs
 
+### 💻 [Criflet](https://criflet.com)
+
+A custom software studio focused on building web applications, mobile apps, internal systems, and software solutions around real business workflows.
+
+**Focus:** Web Applications, Mobile Apps, SaaS, Internal Systems, Workflow Automation
+
 ### 🕌 [Main Mosque](https://mainmosque.com)
 
 A mosque management ecosystem with web, mobile, and TV applications, including prayer schedules, mosque-specific displays, QR pairing, and live-stream integration.
