@@ -51,7 +51,7 @@ I build modern web applications, mobile apps, SaaS products, and business system
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,figma" alt="Tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,cloudflare,vscode,figma" alt="Tools and platforms" />
 </p>
 
 ---
