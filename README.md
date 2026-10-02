@@ -68,25 +68,59 @@ I build modern web applications, mobile apps, SaaS products, and business system
 
 ---
 
-## 💼 Featured Projects
+## 💼 Professional Projects
+
+Projects I contributed to extensively while working with development teams at previous companies.
 
 ### 🏗️ [GetContractorz](https://getcontractorz.com)
 
-A SaaS platform for contractor businesses to manage services, teams, jobs, clients, quotations, payments, and operational workflows.
+A contractor management SaaS platform for handling services, teams, jobs, clients, quotations, payments, and operational workflows.
+
+**Contribution:** Took over development of the platform from an early-stage implementation and completed major frontend and backend functionality, workflows, integrations, and production-ready features.
 
 **Tech:** React, Django, REST APIs
+
+### 🕌 [Main Mosque](https://mainmosque.com)
+
+A mosque management ecosystem with web, mobile, and TV applications, including prayer schedules, mosque-specific displays, QR/session pairing, annual prayer-time imports, and live-stream integration.
+
+**Contribution:** Major contribution across web, mobile, and TV application development, backend workflows, integrations, feature implementation, and system improvements.
+
+**Tech:** MERN Stack, React Native, Node.js, MongoDB
+
+### 🧾 [Digenics POS](https://digenicspos.com)
+
+A web-based point-of-sale and business management system designed to support day-to-day retail operations through a centralized browser-based interface.
+
+**Contribution:** Full-stack development, feature implementation, UI improvements, business workflows, maintenance, and production support.
+
+**Tech:** PHP, JavaScript, HTML, CSS, MySQL
+
+### 📺 [Digital Signage](https://signage.shauntechsolutions.com/)
+
+A commercial digital signage platform for managing content across storefront and business displays. It includes a web-based management system and a connected TV application for controlling and displaying content remotely.
+
+**Contribution:** Full-stack development, display-management workflows, TV application integration, feature development, and system improvements.
+
+**Tech:** Next.js, Node.js, Express.js, MongoDB, React Native
+
+### 🛒 [ShaunPOS](https://tab.shaunpos.com/)
+
+A point-of-sale platform primarily designed for tablet-based retail operations, supported by a web back office for advanced configuration, reporting, management, settings, and operational details.
+
+**Contribution:** Application development, POS workflows, back-office features, UI development, integrations, maintenance, and system improvements.
+
+**Tech:** Next.js, Node.js, Express.js, MongoDB, Java, Kotlin
+
+---
+
+## 🚀 Personal Projects
 
 ### 💻 [Criflet](https://criflet.com)
 
 A custom software studio focused on building web applications, mobile apps, internal systems, and software solutions around real business workflows.
 
 **Focus:** Web Applications, Mobile Apps, SaaS, Internal Systems, Workflow Automation
-
-### 🕌 [Main Mosque](https://mainmosque.com)
-
-A mosque management ecosystem with web, mobile, and TV applications, including prayer schedules, mosque-specific displays, QR pairing, and live-stream integration.
-
-**Tech:** MERN Stack, React Native, Node.js, MongoDB
 
 ### 🧠 Opsious
 
